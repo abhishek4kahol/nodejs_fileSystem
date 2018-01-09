@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_filesystem",
+  "version": "1.0.0",
+  "description": "filesystem operations",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek4kahol/nodejs_fileSystem.git"
+  },
+  "author": "abhishek kahol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek4kahol/nodejs_fileSystem/issues"
+  },
+  "homepage": "https://github.com/abhishek4kahol/nodejs_fileSystem#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
